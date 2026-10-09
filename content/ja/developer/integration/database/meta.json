@@ -1,0 +1,14 @@
+{
+  "title": "データベース",
+  "pages": [
+    "clickhouse",
+    "doris",
+    "duckdb",
+    "influxdb",
+    "databend",
+    "lancedb",
+    "milvus",
+    "trino",
+    "vitess"
+  ]
+}

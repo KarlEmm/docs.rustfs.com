@@ -1,0 +1,11 @@
+{
+  "title": "存储",
+  "pages": [
+    "lakefs",
+    "opendal",
+    "zerofs",
+    "alluxio",
+    "sftpgo",
+    "s3fs"
+  ]
+}

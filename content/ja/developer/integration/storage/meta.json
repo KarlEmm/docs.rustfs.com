@@ -1,0 +1,11 @@
+{
+  "title": "ストレージ",
+  "pages": [
+    "lakefs",
+    "opendal",
+    "zerofs",
+    "alluxio",
+    "sftpgo",
+    "s3fs"
+  ]
+}

@@ -1,21 +1,19 @@
 {
-  "title": "Data Analytics",
+  "title": "Big Data",
   "pages": [
-    "clickhouse",
-    "duckdb",
-    "doris",
+    "airflow",
+    "dolphinscheduler",
+    "delta-lake",
     "flink",
+    "hive",
     "hudi",
+    "paimon",
     "iceberg",
-    "influxdb",
-    "lakefs",
-    "milvus",
-    "mlflow",
-    "opendal",
+    "kafka",
+    "automq",
     "pyiceberg",
     "spark",
-    "trino",
-    "vitess",
+    "seatunnel",
     "zeppelin"
   ]
 }
